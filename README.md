@@ -99,7 +99,7 @@ The program prints a formatted preview of the dataset:
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/VICKYFIRNANSYAH/CodePrintTableAndGraph.git
 cd YOUR_REPOSITORY
 ```
 
